@@ -1,2 +1,2 @@
 # mobileProject
-test code
+код без проекта
